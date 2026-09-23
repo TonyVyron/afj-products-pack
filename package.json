@@ -1,6 +1,6 @@
 {
   "name": "afj-products-pack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Mi librería de componentes React",
   "main":   "dist/index.cjs.js",
   "module": "dist/index.esm.js",
