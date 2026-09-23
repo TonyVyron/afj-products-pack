@@ -1,0 +1,5 @@
+node_modules/
+rollup.config.mjs
+vitest.config.ts
+tsconfig.json
+.env
