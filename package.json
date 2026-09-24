@@ -4,7 +4,7 @@
   "description": "Mi librería de componentes React",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
-  "types": "dist/types/index.d.ts",
+  "types": "dist/index.d.ts",
   "files": [
     "Antonio Fuentes Jara",
     "Fenando h",
